@@ -1,12 +1,14 @@
-## Linguagem Sql: ### Introdução: • A **linguagem de consulta estruturada(SQL)** surgiu em meados da decada de 70 sendo seu principal foco ser uma linguagem que adapta-se ao modelo relacional. Seu sucesso foi tão grande que a ANSI (American National Standarts Institute), padronizou as implementações da linguagem, hoje a maior parte de BD&#39;s seguem criteriosamente esta padronização, podendo ter algumas variações. ###
+# Introdução: 
+• A linguagem de consulta estruturada(SQL) surgiu em meados da decada de 70 sendo seu principal foco ser uma linguagem que adapta-se ao modelo relacional. Seu sucesso foi tão grande que a ANSI (American National Standarts Institute), padronizou as implementações da linguagem, hoje a maior parte de BDS seguem criteriosamente esta padronização, podendo ter algumas variações. <br />
 
-## Podemos colocar restrições para limitar o tipo de dados a introduzir. Essas tais restrições podem ser declaradas quando fizermos a instrução CREATE TABLE ou ALTER TABLE que são comandos DDL que cria e altera uma tabela. Alguns tipos comuns de restrições(CONSTRAINT) incluem o seguinte:
+Podemos colocar restrições para limitar o tipo de dados a introduzir. Essas tais restrições podem ser declaradas quando fizermos a instrução CREATE TABLE ou ALTER TABLE que são comandos DDL que cria e altera uma tabela. Alguns tipos comuns de restrições(CONSTRAINT) incluem o seguinte: <br />
+
 **- Not null**
 **- Default**
 **- Unique**
 **- Check**
 **- Primary Key**
-**- Foreign Key ** ##
+**- Foreign Key**
 
 **Procedimento**
 
